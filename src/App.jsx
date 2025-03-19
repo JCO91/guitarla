@@ -21,7 +21,7 @@ function App() {
               <button
                 type="button"
                 className="btn btn-dark w-100"
-              >Agregar al Carrito</button>
+              >Agregar al Carritos</button>
             </div>
           </div>
 
